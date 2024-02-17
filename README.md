@@ -1,4 +1,4 @@
-# Super SVG Generator
+# SVG-LogoBuilder
 
 ### User Story
 
@@ -31,9 +31,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 From scratch, create an application using the Jest and Inquirer packages to be able to test out and generate an SVG file that will render in the shape of a square, circle, or triangle. Prompted to choose what shape to use and what colors to enter for both the text and the shape, the user will also be prompted to enter at most 3 text characters to be used inside of the shape. Once the user finished all prompts, the new SVG file will be generated inside of the examples folder consisting of what the user has entered.
 
-![img](./Assets/svg-screenshot-example.png)
 
-## Link to Video
+## Link 
 https://www.youtube.com/watch?v=hcGHbK2LqGY
 
 ## How to Run
