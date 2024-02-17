@@ -33,7 +33,7 @@ From scratch, create an application using the Jest and Inquirer packages to be a
 
 
 ## Link 
-https://www.youtube.com/watch?v=hcGHbK2LqGY
+(https://frankaroca.github.io/SVG-LogoBuilder/)
 
 ## How to Run
 
